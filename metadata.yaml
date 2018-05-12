@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17616#Little-Sky-High--Or-The-Surprising-Doings-of-Washee-Washee-Wang
 gutenberg_issued: '2006-01-28'
 gutenberg_type: Text
 identifiers:
